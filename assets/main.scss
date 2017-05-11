@@ -16,13 +16,14 @@ body {
     text-rendering: optimizeLegibility;
     line-height: 1.5;	
     
-    background: lightgray;
+    background: #4d4d4d;
+	color: Gainsboro;
 }
 
 main {
     aside, article {
-        background: white;
-    }
+        background: #4d4d4d;
+	}
 }
 
 header {
@@ -47,7 +48,7 @@ footer {
 
 main aside, main article {
     h1, h2 {
-        color: crimson;
+        color: #e67e00;
     }
 }
 
@@ -67,7 +68,7 @@ main article {
 }
 
 a, a:visited {
-    color: crimson;
+    color: #e67e00;
 }
 
 nav { 
@@ -81,29 +82,12 @@ nav {
         } 
 
         a, a:visited {
-            color: black;
+            color: Gainsboro;
             text-decoration: none;
         }
     }
 }
 
-#archive ul {
-
-    li {
-        float: left;
-        margin-left: 2em;
-    }
-
-    li:nth-child(odd) {
-        clear: left;
-    }
-
-    li:nth-child(even) {
-        margin-left: 4em;
-    }
-
-    padding-bottom: 4em;
-}
 
 main hr {
     border: none;
@@ -111,7 +95,7 @@ main hr {
 }
 
 header, footer {
-    color: white;
+    color: #e67e00;
     
     h1 { 
         font-size: 350%; 
@@ -144,7 +128,7 @@ main article img {
 }
 
 footer {
-    color: darkgray;
+    color: gainsboro;
     font-size: 80%;
 
     aside {
@@ -310,12 +294,7 @@ footer {
             text-align: left;
         }
 
-        #ieee-logo {
-            margin-top: 1em;
-            float: right;
-        }
-
-        #ldav-logo {
+        #vip-logo {
             height: 160px;
             width: 160px;
         }
