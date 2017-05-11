@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include head.html %}
+
+<body>
+
+  <header>
+    <aside>
+      <img id="vip-logo" src="assets/logo-vip.png" />
+    </aside>
+    <article>
+      <h2>
+        <b><span>Visualization in Practice 2017</span></b><br />
+        <span>part of IEEE VIS 2017,</span>
+        <span>Phoenix, Arizona, October 1-6, 2017</span>
+      </h2>
+    </article>
+  </header>
+
+  <main>
+    <aside>
+      {% include nav.html %}
+      <hr />
+      {% capture my_include %}{% include dates.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+    </aside>
+    <article>
+      {{ content }}
+    </article>
+  </main>
+
+  <footer>
+    <aside>
+      Last update: {{ page.last_modified_at | date: '%b %e, %Y' }}
+    </aside>
+    <article>
+      <p>
+        © 2017 Vis in Practice, part of IEEE VIS 2017, Phoenix, Arizona, October 1-6, 2017.
+      </p>
+    </article>
+  </footer>
+
+</body>
+
+</html>
