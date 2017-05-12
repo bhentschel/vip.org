@@ -20,17 +20,10 @@ Justin Talbot
 : Tableau Reseearch
 
 </div>
+
 <div class="right">
 ## Program Committee
 
-### InfoVis
-...to be announced...
-
-
-### VAST 
-...to be announced...
-
-### SciVis
 ...to be announced...
 
 </div>
