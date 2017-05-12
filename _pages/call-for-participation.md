@@ -8,7 +8,7 @@ title: Call for Participation
 
 The 2017 Workshop on Visualization in Practice (VIP) is an opportunity for visualization practitioners and researchers to meet and share experiences, insights, and ideas in applying the latest visualization and visual analytics research to real world problems. VIP targets work at the interface between visualization research and specific application domains. It is highly interdisciplinary and focused on delivering actual value to users. This year, we specifically focus on *visualization solutions in the wild*, i.e. on tools, systems, or frameworks which are actively used. The workshop will cover all aspects from their initial conception and design, the process of getting them into use, and the long-term work of extending and sustaining them. 
 
-The 2017 VIP workshop will be held on Monday 2nd October as part of IEEE VIS in Phoenix, Arizona (October 1-6). 
+The 2017 VIP workshop will be held on Monday 2nd October in conjunction with IEEE VIS 2017 in Phoenix, Arizona (October 1-6). 
 
 ## Topics
 

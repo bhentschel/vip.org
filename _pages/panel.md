@@ -6,4 +6,4 @@ title: Panel
 
 # ViP Panel - ...
 
-The ViP'17 panel will be part of IEEE VIS'17's main program. We will make more information available here, soon.
+The ViP panel will be part of the IEEE VIS 2017 main program. We will make more information available here, soon.
