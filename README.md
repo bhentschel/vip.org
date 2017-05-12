@@ -1,5 +1,5 @@
-# ldav.org
-LDAV symposium website
+# visinpractice.org
+ViP program website
 
 ## Build instructions
 
