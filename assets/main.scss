@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
 
 @charset "utf-8";
 
@@ -10,7 +10,7 @@
 // --- base colors & fonts -------------------------------------------------
 
 body {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Cabin', sans-serif;
     font-size: 13px;
 
     text-rendering: optimizeLegibility;
@@ -31,9 +31,9 @@ header {
     background-color: black;
     
     article {
-        background-image: url(right10.png);
+        background-image: url(header-teaser.png);
         background-repeat: no-repeat;
-        background-size: auto 100px;
+        background-size: auto 400px;
         background-position: center;
     }
 }
@@ -98,11 +98,11 @@ header, footer {
     color: #e67e00;
     
     h1 { 
-        font-size: 350%; 
+        font-size: 250%; 
     }
 
     h2 { 
-        font-size: 110%;
+        font-size: 150%;
     }
 }
 
@@ -140,7 +140,7 @@ footer {
 }
 
 h1, h2, h3, h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Cabin", sans-serif;
 }
 
 h1 {

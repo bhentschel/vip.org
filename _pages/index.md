@@ -6,15 +6,12 @@ layout: default
 title: Home
 ---
 
-# Vis in Practice 2017 
+# Visualization in Practice 2017 
 
-...put some nifty intro text here...
+The main goal of the Visualization in Practice Program is to facilitate a lively exchange between visualization practitioners and the visualization research community. 
 
 <img width="100%" src="assets/teaser.png" />
 
-...give a brief overview and link to the respective pages
-* how to get involved?
-* what to attend?
-* what else is interesting?
+ViP integrates a variety of events. One of its main components is a half-day [workshop](workshop), which will be held on Monday, October 2nd 2017. For that workshop we are [looking for](call-for-participation) interesting visualization solutions that have proven their value in real-life situations. ViP will also feature a [panel](panel), which targets stuff. More information for practitioners visiting the conference - potentially for the first time - will be made available in the time leading up to IEEE VIS'17. We are looking forward to meet you there. 
 
 Please register through the [IEEE VIS website](http://ieeevis.org).

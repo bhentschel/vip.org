@@ -30,7 +30,7 @@ Optionally, you may submit a video (MPEG, AVI, or Quicktime format, duration at 
 Abstracts will be reviewed for their potential applicability to the VIP workshop audience and their potential impact on the visualization community at large. Additionally, they will be reviewed for timeliness, clarity, and overall quality of writing. Note that research novelty is explicitly not the primary criterion for evaluation at the VIP workshop.
 Based on the outcome of the review process, authors of successful submissions will be invited to either present their work in a talk during the Vis in Practice workshop on October 2 or to prepare a poster for the VIP poster session, which will be held along with the VIS main poster session on October 4.
 
-All submissions for the 2017 Workshop on Visualization in Practice should be submitted via the Precision Conference System. Submissions must be received on or before June 16, 2017 to be considered. 
+All submissions for the 2017 Workshop on Visualization in Practice should be submitted via the [Precision Conference System](https://precisionconference.com/~vip17). Submissions must be received on or before June 16, 2017 to be considered. 
 In order to maintain interactive and exciting presentations and posters, we require that at least one presenter per accepted submission attend the workshop.
 
 ## Important Dates 
