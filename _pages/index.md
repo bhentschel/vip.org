@@ -8,10 +8,13 @@ title: Home
 
 # Vis in Practice 2017 
 
-...
+...put some nifty intro text here...
 
-<img width="100%" src="assets/right11.png" />
+<img width="100%" src="assets/teaser.png" />
 
-...
+...give a brief overview and link to the respective pages
+* how to get involved?
+* what to attend?
+* what else is interesting?
 
 Please register through the [IEEE VIS website](http://ieeevis.org).

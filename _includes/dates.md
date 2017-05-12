@@ -13,7 +13,7 @@ Camera-Ready Deadline
 
 ## Workshop
 
-Half-day symposium
+Half-day workshop
 : October 2, 2017
 
 ## Posters
