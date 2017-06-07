@@ -24,7 +24,26 @@ Justin Talbot
 <div class="right">
 ## Program Committee
 
-...to be announced...
+Katja Bühler 
+: VRVis
+
+Alan Keahey
+: IBM
+
+Matthew Larsen
+: Lawrence Livermore National Laboratory
+
+Thorsten May
+: Fraunhofer IGD
+
+Robert Maynard
+: Kitware
+
+Christian Rohrdantz
+: Vidatics
+
+Hendrik Strobelt
+: IBM
 
 </div>
 
