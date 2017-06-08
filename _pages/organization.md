@@ -28,7 +28,7 @@ Katja Bühler
 : VRVis
 
 Alan Keahey
-: IBM
+: Conversant, LLC
 
 Matthew Larsen
 : Lawrence Livermore National Laboratory
