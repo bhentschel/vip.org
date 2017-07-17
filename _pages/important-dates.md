@@ -14,7 +14,7 @@ Author Notification
 : July 14, 2017
 
 Camera-Ready Deadline
-: July 26, 2017
+: July 29, 2017
 
 ## Workshop
 
