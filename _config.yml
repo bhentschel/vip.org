@@ -32,6 +32,8 @@ navigation:
    url: index.html
  - title: Call for Participation
    url: call-for-participation.html
+ - title: Guide
+   url: practitioner-guide.html
  - title: Workshop
    url: workshop.html
  - title: Panel
