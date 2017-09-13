@@ -17,7 +17,7 @@ Daniela Oelke
 : Siemens AG
 
 Justin Talbot
-: Tableau Reseearch
+: Tableau Research
 
 </div>
 
