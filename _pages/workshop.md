@@ -23,7 +23,7 @@ _Belle2VR – A Virtual Reality Visualization of Subatomic Particle Physics_
 
 
 
-## Monday, October 2; 2:00PM - 3:40 PM
+## Monday, October 2; 4:15PM - 5:55 PM
 
 __Paper__ -  B. Karer, A. Freund, M. Horst, I. Scheler, H. Hagen: 
 
