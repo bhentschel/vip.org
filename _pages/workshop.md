@@ -15,28 +15,26 @@ __Welcome!__ - Bernd Hentschel
 
 __Keynote Address__ - Anders Ynnerman, Linköping University
 
-__Paper__ - Y. Wang: 
-_Deck.gl: Large-scale Web-based Visual Analytics Made Easy_
+__Paper__ - _Deck.gl: Large-scale Web-based Visual Analytics Made Easy_
+: Y. Wang
 
-__Paper__ - Z. Duer, L. Piilonent, G. Glasson: 
-_Belle2VR – A Virtual Reality Visualization of Subatomic Particle Physics_
-
+__Paper__ - _Belle2VR – A Virtual Reality Visualization of Subatomic Particle Physics_
+: Z. Duer, L. Piilonent, G. Glasson
 
 
 ## Monday, October 2; 4:15PM - 5:55 PM
 
-__Paper__ -  B. Karer, A. Freund, M. Horst, I. Scheler, H. Hagen: 
+__Paper__ - _Dealing with Sparse Domain Information - Visualization Practice Lessons_ 
+: B. Karer, A. Freund, M. Horst, I. Scheler, H. Hagen
 
-_Dealing with Sparse Domain Information - Visualization Practice Lessons_ 
+__Paper__ - _Spatiotemporal Driven Analysis of Law Enforcement Data_
+: G. Wang, A. Akers, J. F. de Queiroz Neto, C. Surakitbanharn, D. Ebert
 
-__Paper__ -  G. Wang, A. Akers, J. F. de Queiroz Neto, C. Surakitbanharn, D. Ebert: 
-_Spatiotemporal Driven Analysis of Law Enforcement Data_
+__Paper__ - _Requirements Analysis & Concepts for Future European Air Traffic Control Systems_ 
+: G. Rottermanner, M. Wagner, V. Settgast, V. Grantz, M. Iber, U. Kriegshaber, W. Aigner, P. Judmaier, and E. Eggeling
 
-__Paper__ - G. Rottermanner, M. Wagner, V. Settgast, V. Grantz, M. Iber, U. Kriegshaber, W. Aigner, P. Judmaier, and E. Eggeling: 
-_Requirements Analysis & Concepts for Future European Air Traffic Control Systems_ 
-
-__Paper__ - J. Wambecke, G.-P. Bonneau, R. Blanch, R. Vergne 
-_Activelec: an Interaction-Based Visualization System to Analyze Household Electricity Consumption_
+__Paper__ - _Activelec: an Interaction-Based Visualization System to Analyze Household Electricity Consumption_
+: J. Wambecke, G.-P. Bonneau, R. Blanch, R. Vergne
 
 __Poster Lightning Talks__
 
