@@ -16,12 +16,12 @@ Camera-Ready Deadline
 Half-day workshop
 : October 2, 2017
 
+## Panel
+
+Increasing the Impact of Visualization Research
+: October 3, 2017
+
 ## Posters
 
 VIS main poster session
 : October 4, 2017
-
-## Panel
-
-To be announced
-: ...
