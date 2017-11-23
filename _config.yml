@@ -44,3 +44,7 @@ navigation:
    url: important-dates.html
  - title: Organization
    url: organization.html
+
+archive:
+- title: 2017
+  url: assets/vip2017/index.html

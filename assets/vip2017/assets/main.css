@@ -1,0 +1,189 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin");
+body {
+  font-family: 'Cabin', sans-serif;
+  font-size: 13px;
+  text-rendering: optimizeLegibility;
+  line-height: 1.5;
+  background: #080808;
+  color: Gainsboro; }
+
+main aside, main article {
+  background: #222222; }
+
+header {
+  background-color: black; }
+  header article {
+    background-image: url(header-teaser.png);
+    background-repeat: no-repeat;
+    background-size: auto 400px;
+    background-position: center; }
+
+footer {
+  background-color: black; }
+  footer aside {
+    display: none; }
+
+main aside h1, main aside h2, main article h1, main article h2 {
+  color: #e67e00; }
+
+main article h1 {
+  font-size: 130%; }
+main article h2 {
+  font-size: 120%; }
+main article h1 + h2 {
+  padding: 0;
+  margin: 0; }
+
+a, a:visited {
+  color: #e67e00; }
+
+nav ul {
+  padding: 0; }
+  nav ul li {
+    list-style: outside square;
+    margin-left: 2em; }
+  nav ul a, nav ul a:visited {
+    color: Gainsboro;
+    text-decoration: none; }
+
+main hr {
+  border: none;
+  border-top: 1px dotted gray; }
+
+header, footer {
+  color: #e67e00; }
+  header h1, footer h1 {
+    font-size: 250%; }
+  header h2, footer h2 {
+    font-size: 150%; }
+
+span {
+  display: inline-block; }
+
+main aside nav ~ * {
+  display: none;
+  font-size: 90%; }
+main aside hr {
+  border: none;
+  border-top: 1px dotted #eee; }
+
+main article img {
+  margin-top: 1em;
+  margin-bottom: 1em; }
+
+footer {
+  color: gainsboro;
+  font-size: 80%;
+  padding-top: 1em;
+  padding-bottom: 1em; }
+  footer aside {
+    text-align: center; }
+
+h1, h2, h3, h4 {
+  font-family: "Cabin", sans-serif; }
+
+h1 {
+  font-size: 100%;
+  font-weight: 800; }
+
+h2 {
+  font-size: 120%;
+  font-weight: 400; }
+
+h3 {
+  font-size: 100%;
+  font-weight: 400;
+  text-decoration: underline; }
+
+dl dt {
+  margin-top: .5em;
+  font-weight: 600; }
+dl dd {
+  margin-left: 0; }
+
+#ieee-logo {
+  width: 100px;
+  margin-bottom: 1em; }
+
+#vip-logo {
+  width: 120px;
+  height: 120px; }
+
+.left, .right {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top; }
+
+header aside img {
+  width: 150px; }
+header aside, header article {
+  text-align: center; }
+header article img {
+  margin: 0;
+  padding: 0; }
+
+header {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 1em; }
+
+aside, article {
+  padding-right: 2em;
+  padding-left: 2em; }
+
+main aside, main article {
+  margin-bottom: 1em;
+  padding-bottom: .5em;
+  padding-top: .5em; }
+
+footer {
+  text-align: center;
+  clear: both; }
+
+@media screen and (min-width: 720px) {
+  body {
+    display: table;
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 960px; }
+
+  header, footer, main {
+    display: table-row; }
+    header article, header aside, footer article, footer aside, main article, main aside {
+      display: table-cell;
+      padding-bottom: 1em;
+      padding-top: 1em; }
+
+  header {
+    height: initial; }
+    header article {
+      background-position: right 2em center;
+      background-size: auto 70%; }
+
+  aside {
+    min-width: 12em;
+    padding-right: 2em;
+    padding-left: 2em;
+    border-right: 1px dotted lightgray; }
+
+  article {
+    width: 100%;
+    padding-left: 2em; }
+
+  header aside, header article, footer aside, footer article {
+    vertical-align: middle; }
+  header aside, footer aside {
+    border-right: 1px dotted #444; }
+  header article, footer article {
+    text-align: left; }
+  header #vip-logo, footer #vip-logo {
+    height: 160px;
+    width: 160px; }
+
+  footer {
+    text-align: left; }
+    footer aside {
+      display: table-cell; }
+
+  main aside nav ~ * {
+    display: block; } }

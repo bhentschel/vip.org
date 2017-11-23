@@ -12,4 +12,15 @@
       <a href="mailto:vip@ieeevis.org">Contact</a>
     </li>
   </ul>
+  <h1>Archive</h1>
+  <ul>
+    {% for link in site.archive %} 
+    {% assign current = nil %} 
+    {% if page.url contains link.url %} {% assign current = 'current'%} {% endif %}
+    <li class="{{ current }}">
+      <a href="{{ link.url }}">{{ link.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  
 </nav>
