@@ -1,6 +1,9 @@
 # Important dates
 
-## Papers
+ViP Main Event
+: October 22, 2018
+
+<!-- ## Papers
 
 Paper Submission
 : June 16, 2017, 05:00 PM (PDT)
@@ -24,4 +27,4 @@ Increasing the Impact of Visualization Research
 ## Posters
 
 VIS main poster session
-: October 4, 2017
+: October 4, 2017 -->

@@ -16,22 +16,23 @@ body {
     text-rendering: optimizeLegibility;
     line-height: 1.5;	
     
-    background: #080808;
-	color: Gainsboro;
+    background: white;
+	color: black;
 }
 
 main {
     aside, article {
-        background: #222222;
+        background: #e2e2e2;
+        color: black;
 	}
 }
 
 header {
 
-    background-color: black;
+    background-color: #e2e2e2;
     
     article {
-        background-image: url(header-teaser.png);
+        //background-image: url(header-teaser.png);
         background-repeat: no-repeat;
         background-size: auto 400px;
         background-position: center;
@@ -39,7 +40,7 @@ header {
 }
 
 footer {
-    background-color: black;
+    background-color: #e2e2e2;
 
     aside {
         display: none;
@@ -48,7 +49,7 @@ footer {
 
 main aside, main article {
     h1, h2 {
-        color: #e67e00;
+        color: #770202;
     }
 }
 
@@ -68,7 +69,7 @@ main article {
 }
 
 a, a:visited {
-    color: #e67e00;
+    color: #d20202;
 }
 
 nav { 
@@ -82,7 +83,7 @@ nav {
         } 
 
         a, a:visited {
-            color: Gainsboro;
+            color: black;
             text-decoration: none;
         }
     }
@@ -91,11 +92,11 @@ nav {
 
 main hr {
     border: none;
-    border-top: 1px dotted gray;
+    border-top: 1px dotted black;
 }
 
 header, footer {
-    color: #e67e00;
+    color: #770202;
     
     h1 { 
         font-size: 250%; 
@@ -118,7 +119,7 @@ main aside {
 
     hr {
         border: none;
-        border-top: 1px dotted #eee;
+        border-top: 1px dotted black;
     }
 }
 
@@ -272,7 +273,7 @@ footer {
         padding-right: 2em;
         padding-left: 2em;
 
-        border-right: 1px dotted lightgray;
+        border-right: 1px dotted black;
     }
 
     article {
@@ -287,7 +288,7 @@ footer {
         }
 
         aside {
-            border-right: 1px dotted #444;
+            border-right: 1px dotted black;
         }
 
         article {

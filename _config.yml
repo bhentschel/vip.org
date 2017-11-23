@@ -1,12 +1,12 @@
 
-title: VIP 2017
+title: VIP
 email: vip@ieeevis.org
 baseurl: ""
 url: "http://www.visinpractice.rwth-aachen.de"
 
 description: > 
   Visualization in Practice
-  part of IEEE VIS 2017, Phoenix, Arizona, October 1-6, 2017
+  part of IEEE VIS 2018, Berlin, Germany, October 21-26, 2018
 
 
 # Build settings
@@ -30,18 +30,18 @@ collections:
 navigation:
  - title: Home
    url: index.html
- - title: Call for Participation
-   url: call-for-participation.html
- - title: Guide
-   url: http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/pg
- - title: Workshop
-   url: workshop.html
- - title: Panel
-   url: panel.html
- - title: Supporters
-   url: supporters.html
- - title: Important Dates
-   url: important-dates.html
+ #- title: Call for Participation
+ #  url: call-for-participation.html
+#  - title: Guide
+#    url: http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/pg
+#  - title: Workshop
+#    url: workshop.html
+#  - title: Panel
+#    url: panel.html
+#  - title: Supporters
+#    url: supporters.html
+#  - title: Important Dates
+#    url: important-dates.html
  - title: Organization
    url: organization.html
 
