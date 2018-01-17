@@ -1,5 +1,5 @@
 # visinpractice.org
-ViP program website
+ViP program website!
 
 ## Build instructions
 
