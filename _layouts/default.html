@@ -10,13 +10,97 @@
       <!-- <img id="vip-logo" src="assets/logo-vip.png" /> -->
     </aside>
     <article>
-      <h1>
-        <b><span>Visualization in Practice 2018</span></b><br />
-	  </h1>
-	  <h2>
-        <span>at IEEE VIS 2018,</span>
-        <span>Berlin, Germany, October 21-26, 2018</span>
-      </h2>
+      <svg id='header_svg'></svg>
+      <script src="https://d3js.org/d3.v4.min.js"></script>     
+      <script>
+
+        var svg_width = +d3.select('aside').style('width').substring(0, 3) == +d3.select('article').style('width').substring(0, 3) ? window.innerWidth - 70 : window.innerWidth - 290;
+
+        var color_scale = d3.scaleLinear()
+        .domain([0,8,16])
+        .range([d3.lab("#91bfdb"),d3.lab("#ffffbf"),d3.lab("#fc8d59")])
+        .interpolate(d3.interpolateLab);
+
+        var grid = [],
+            text = [["V","I","S"],["I","N"],[,"P","R","A","C","T","I","C","E"],["2","0","1","8"]],
+            i,
+            j;
+        for (i = 0; i < 4; i++) {
+          for (j = 0; j < 20; j++) {
+            var grid_item = {
+              "row":i,
+              "column":j,
+              "fill_value": color_scale( Math.floor(Math.random()*16) ),
+              "char": j >= text[i].length ? "" : text[i][j]
+            };
+            grid.push(grid_item);
+          }
+        }
+
+        var grid_item = d3.select("#header_svg")
+            .selectAll(".grid_item")          
+            .data(grid);
+
+        var grid_item_enter = grid_item.enter()
+        .append("g")
+        .attr("class","grid_item")
+        .attr("id", function (d) {
+          return "grid_item_" + d.row + "_" + d.column;
+        })
+        .merge(grid_item);
+
+        grid_item_enter.append('rect')
+        .style('stroke','transparent')
+        .style('stroke-width','1px')
+        .attr('width',svg_width / 20 - 2)
+        .attr('height', svg_width / 20 - 2)
+        .style('fill', function(d){          
+          return d.char != "" ? '#ffffbf' : color_scale( Math.floor(Math.random()*16) );
+        })
+        .attr('x', function(d){
+          return (svg_width / 20) * d.column;
+        })
+        .attr('y', function(d){
+          return (svg_width / 20) * d.row;
+        });
+
+        function update () {
+
+          d3.select("#header_svg")
+          .attr('width',svg_width)
+          .attr('height', (svg_width / 20) * 4);
+
+          var grid_item_update = d3.selectAll(".grid_item")
+          .transition()          
+          .duration(2000)
+          .ease(d3.easeCubicInOut);
+          
+          grid_item_update.select('rect')          
+          .attr('width',svg_width / 20 - 2)
+          .attr('height', svg_width / 20 - 2)
+          .style('fill', function(d){
+            return d.char != "" ? '#ffffbf' : color_scale( Math.floor(Math.random()*16) );
+          })
+          .attr('x', function(d){
+            return (svg_width / 20) * d.column;
+          })
+          .attr('y', function(d){
+            return (svg_width / 20) * d.row;
+          });  
+        }
+
+        window.onresize = function(e) {
+
+          svg_width = +d3.select('aside').style('width').substring(0, 3) == +d3.select('article').style('width').substring(0, 3) ? window.innerWidth - 70 : window.innerWidth - 290;
+
+          update();
+        };   
+
+        d3.interval(function() {
+          update();
+        }, 3000);
+
+      </script>
     </article>
   </header>
 
