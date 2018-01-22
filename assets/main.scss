@@ -3,6 +3,7 @@
 ---
 
 @import url('https://fonts.googleapis.com/css?family=Cabin');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
 
 @charset "utf-8";
 
@@ -172,6 +173,11 @@ dl {
     dd {
         margin-left: 0;
     }
+}
+
+.grid_item {
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
 }
 
 #ieee-logo {

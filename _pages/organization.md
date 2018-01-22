@@ -10,7 +10,7 @@ title: Organization
 <div class="left">
 ## VIP Chairs
 
-Matthew Bremer
+Matthew Brehmer
 : Microsoft Research
 
 Bernd Hentschel

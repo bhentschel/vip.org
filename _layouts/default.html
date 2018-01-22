@@ -10,11 +10,18 @@
       <!-- <img id="vip-logo" src="assets/logo-vip.png" /> -->
     </aside>
     <article>
-      <svg id='header_svg'></svg>
+      <svg id='header_svg' width="100%" height="139"></svg>
       <script src="https://d3js.org/d3.v4.min.js"></script>     
       <script>
 
         var svg_width = +d3.select('aside').style('width').substring(0, 3) == +d3.select('article').style('width').substring(0, 3) ? window.innerWidth - 70 : window.innerWidth - 290;
+
+        window.addEventListener('load', function() { 
+          var svg_width = +d3.select('aside').style('width').substring(0, 3) == +d3.select('article').style('width').substring(0, 3) ? window.innerWidth - 70 : window.innerWidth - 290;
+          d3.select("#header_svg")
+          .attr('width',svg_width)
+          .attr('height', (svg_width / 20) * 4);
+        }); 
 
         var color_scale = d3.scaleLinear()
         .domain([0,8,16])
@@ -22,7 +29,7 @@
         .interpolate(d3.interpolateLab);
 
         var grid = [],
-            text = [["V","I","S"],["I","N"],[,"P","R","A","C","T","I","C","E"],["2","0","1","8"]],
+            text = [["V","I","S"],["I","N"],["P","R","A","C","T","I","C","E"],["2","0","1","8"]],
             i,
             j;
         for (i = 0; i < 4; i++) {
@@ -52,8 +59,8 @@
         grid_item_enter.append('rect')
         .style('stroke','transparent')
         .style('stroke-width','1px')
-        .attr('width',svg_width / 20 - 2)
-        .attr('height', svg_width / 20 - 2)
+        .attr('width', d3.max([0,svg_width / 20 - 2]))
+        .attr('height', d3.max([0,svg_width / 20 - 2]))
         .style('fill', function(d){          
           return d.char != "" ? '#ffffbf' : color_scale( Math.floor(Math.random()*16) );
         })
@@ -62,6 +69,21 @@
         })
         .attr('y', function(d){
           return (svg_width / 20) * d.row;
+        });
+
+        grid_item_enter.append('text')  
+        .attr('text-anchor', "middle")
+        .attr('alignment-baseline','middle')  
+        .attr('dy','0.1em')
+        .attr('x', function(d){
+          return (svg_width / 20) * d.column + (svg_width / 20) * 0.5;
+        })
+        .attr('y', function(d){
+          return (svg_width / 20) * d.row + (svg_width / 20) * 0.5;
+        })
+        .style('font-size', (d3.max([1,svg_width / 20 - 2]) - 1) + 'px')
+        .text(function(d){
+          return d.char;
         });
 
         function update () {
@@ -76,8 +98,8 @@
           .ease(d3.easeCubicInOut);
           
           grid_item_update.select('rect')          
-          .attr('width',svg_width / 20 - 2)
-          .attr('height', svg_width / 20 - 2)
+          .attr('width', d3.max([0,svg_width / 20 - 2]))
+          .attr('height', d3.max([0,svg_width / 20 - 2]))
           .style('fill', function(d){
             return d.char != "" ? '#ffffbf' : color_scale( Math.floor(Math.random()*16) );
           })
@@ -87,6 +109,21 @@
           .attr('y', function(d){
             return (svg_width / 20) * d.row;
           });  
+
+          grid_item_update.select('text')  
+          .attr('text-anchor', "middle")
+          .attr('alignment-baseline','middle')  
+          .attr('dy','0.1em')
+          .attr('x', function(d){
+            return (svg_width / 20) * d.column + (svg_width / 20) * 0.5;
+          })
+          .attr('y', function(d){
+            return (svg_width / 20) * d.row + (svg_width / 20) * 0.5;
+          })
+          .style('font-size', (d3.max([1,svg_width / 20 - 2]) - 1) + 'px')
+          .text(function(d){
+            return d.char;
+          });
         }
 
         window.onresize = function(e) {

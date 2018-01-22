@@ -1,6 +1,6 @@
 # Important dates
 
-ViP Main Event
+VisInPractice
 : October 22, 2018
 
 <!-- ## Papers
