@@ -15,12 +15,14 @@
       <script>
 
         var svg_width = +d3.select('aside').style('width').substring(0, 3) == +d3.select('article').style('width').substring(0, 3) ? window.innerWidth - 70 : window.innerWidth - 290;
+        var numcols = svg_width >= 1080 ? 40 : svg_width >= 720 ? 30 : svg_width >= 320 ? 20 : 10;
 
         window.addEventListener('load', function() { 
           var svg_width = +d3.select('aside').style('width').substring(0, 3) == +d3.select('article').style('width').substring(0, 3) ? window.innerWidth - 70 : window.innerWidth - 290;
+          numcols = svg_width >= 1080 ? 40 : svg_width >= 720 ? 30 : svg_width >= 320 ? 20 : 10;
           d3.select("#header_svg")
           .attr('width',svg_width)
-          .attr('height', (svg_width / 20) * 4);
+          .attr('height', (svg_width / numcols) * 4);
         }); 
 
         var color_scale = d3.scaleLinear()
@@ -33,7 +35,7 @@
             i,
             j;
         for (i = 0; i < 4; i++) {
-          for (j = 0; j < 20; j++) {
+          for (j = 0; j < numcols; j++) {
             var grid_item = {
               "row":i,
               "column":j,
@@ -48,6 +50,9 @@
             .selectAll(".grid_item")          
             .data(grid);
 
+        var grid_item_exit = grid_item.exit()
+        .remove();
+
         var grid_item_enter = grid_item.enter()
         .append("g")
         .attr("class","grid_item")
@@ -59,16 +64,16 @@
         grid_item_enter.append('rect')
         .style('stroke','transparent')
         .style('stroke-width','1px')
-        .attr('width', d3.max([0,svg_width / 20 - 2]))
-        .attr('height', d3.max([0,svg_width / 20 - 2]))
+        .attr('width', d3.max([0,svg_width / numcols - 2]))
+        .attr('height', d3.max([0,svg_width / numcols - 2]))
         .style('fill', function(d){          
           return d.char != "" ? '#ffffbf' : color_scale( Math.floor(Math.random()*16) );
         })
         .attr('x', function(d){
-          return (svg_width / 20) * d.column;
+          return (svg_width / numcols) * d.column;
         })
         .attr('y', function(d){
-          return (svg_width / 20) * d.row;
+          return (svg_width / numcols) * d.row;
         });
 
         grid_item_enter.append('text')  
@@ -76,38 +81,52 @@
         .attr('alignment-baseline','middle')  
         .attr('dy','0.15em')
         .attr('x', function(d){
-          return (svg_width / 20) * d.column + (svg_width / 20) * 0.5;
+          return (svg_width / numcols) * d.column + (svg_width / numcols) * 0.5;
         })
         .attr('y', function(d){
-          return (svg_width / 20) * d.row + (svg_width / 20) * 0.5;
+          return (svg_width / numcols) * d.row + (svg_width / numcols) * 0.5;
         })
-        .style('font-size', (d3.max([1,svg_width / 20 - 2]) - 1) + 'px')
+        .style('font-size', (d3.max([1,svg_width / numcols - 2]) - 1) + 'px')
         .text(function(d){
           return d.char;
         });
 
         function update () {
 
+          grid = [];
+          text = [["V","I","S"],["I","N"],["P","R","A","C","T","I","C","E"],["2","0","1","8"]];
+          for (i = 0; i < 4; i++) {
+            for (j = 0; j < numcols; j++) {
+              var grid_item = {
+                "row":i,
+                "column":j,
+                "fill_value": color_scale( Math.floor(Math.random()*16) ),
+                "char": j >= text[i].length ? "" : text[i][j]
+              };
+              grid.push(grid_item);
+            }
+          }
+
           d3.select("#header_svg")
           .attr('width',svg_width)
-          .attr('height', (svg_width / 20) * 4);
+          .attr('height', (svg_width / numcols) * 4);
 
           var grid_item_update = d3.selectAll(".grid_item")
           .transition()          
-          .duration(2000)
+          .duration(3000)
           .ease(d3.easeCubicInOut);
           
           grid_item_update.select('rect')          
-          .attr('width', d3.max([0,svg_width / 20 - 2]))
-          .attr('height', d3.max([0,svg_width / 20 - 2]))
+          .attr('width', d3.max([0,svg_width / numcols - 2]))
+          .attr('height', d3.max([0,svg_width / numcols - 2]))
           .style('fill', function(d){
             return d.char != "" ? '#ffffbf' : color_scale( Math.floor(Math.random()*16) );
           })
           .attr('x', function(d){
-            return (svg_width / 20) * d.column;
+            return (svg_width / numcols) * d.column;
           })
           .attr('y', function(d){
-            return (svg_width / 20) * d.row;
+            return (svg_width / numcols) * d.row;
           });  
 
           grid_item_update.select('text')  
@@ -115,12 +134,12 @@
           .attr('alignment-baseline','middle')  
           .attr('dy','0.15em')
           .attr('x', function(d){
-            return (svg_width / 20) * d.column + (svg_width / 20) * 0.5;
+            return (svg_width / numcols) * d.column + (svg_width / numcols) * 0.5;
           })
           .attr('y', function(d){
-            return (svg_width / 20) * d.row + (svg_width / 20) * 0.5;
+            return (svg_width / numcols) * d.row + (svg_width / numcols) * 0.5;
           })
-          .style('font-size', (d3.max([1,svg_width / 20 - 2]) - 1) + 'px')
+          .style('font-size', (d3.max([1,svg_width / numcols - 2]) - 1) + 'px')
           .text(function(d){
             return d.char;
           });
@@ -129,7 +148,7 @@
         window.onresize = function(e) {
 
           svg_width = +d3.select('aside').style('width').substring(0, 3) == +d3.select('article').style('width').substring(0, 3) ? window.innerWidth - 70 : window.innerWidth - 290;
-
+          numcols = svg_width >= 1080 ? 40 : svg_width >= 720 ? 30 : svg_width >= 320 ? 20 : 10;
           update();
         };   
 
@@ -159,7 +178,7 @@
     </aside>
     <article>
        <span style="float: left; ">
-	   © 2018 Vis in Practice, part of IEEE VIS 2018, Berlin, Germany, October 21-26, 2018. 
+	   © 3018 Vis in Practice, part of IEEE VIS 3018, Berlin, Germany, October 21-26, 3018. 
 	   </span>
 	   <span style="float: right;">
 	   <a href="disclaimer.html">Disclaimer</a>
