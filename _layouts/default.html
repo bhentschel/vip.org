@@ -74,7 +74,7 @@
         grid_item_enter.append('text')  
         .attr('text-anchor', "middle")
         .attr('alignment-baseline','middle')  
-        .attr('dy','0.1em')
+        .attr('dy','0.15em')
         .attr('x', function(d){
           return (svg_width / 20) * d.column + (svg_width / 20) * 0.5;
         })
@@ -113,7 +113,7 @@
           grid_item_update.select('text')  
           .attr('text-anchor', "middle")
           .attr('alignment-baseline','middle')  
-          .attr('dy','0.1em')
+          .attr('dy','0.15em')
           .attr('x', function(d){
             return (svg_width / 20) * d.column + (svg_width / 20) * 0.5;
           })
