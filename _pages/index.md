@@ -8,7 +8,7 @@ title: Home
 
 <!-- # Visualization in Practice 2018  -->
 
-The Vis in Practice (VIP) program at [IEEE VIS](http://ieeevis.org) is an opportunity for visualization practitioners and researchers to meet and share experiences, insights, and ideas in applying visualization and visual analytics to real-world use cases. VIP seeks to acknowledge successful transfers of visualization research into applications as well as current visualization practices occurring in industry. 
+The VisInPractice (VIP) program at [IEEE VIS](http://ieeevis.org) is an opportunity for visualization practitioners and researchers to meet and share experiences, insights, and ideas in applying visualization and visual analytics to real-world use cases. VIP seeks to acknowledge successful transfers of visualization research into applications as well as current visualization practices occurring in industry. 
 
 <!-- <img width="100%" src="assets/teaser.png" /> -->
 
