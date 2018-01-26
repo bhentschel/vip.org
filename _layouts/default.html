@@ -76,6 +76,13 @@
         })
         .attr('y', function(d){
           return (svg_width / numcols) * d.row;
+        })        
+        .on('mouseover', function(){
+          d3.select(this).style('fill','#fc8d59');
+        })
+        .on('mouseout', function(){
+          d3.select(this)
+          .style('fill','#91bfdb');
         });
 
         grid_item_enter.append('text')  
@@ -129,6 +136,14 @@
           })
           .attr('y', function(d){
             return (svg_width / numcols) * d.row;
+          })                 
+          .on('mouseover', function(){
+            d3.select(this)
+            .style('fill','#fc8d59');
+          })          
+          .on('mouseout', function(){
+            d3.select(this)
+            .style('fill','#91bfdb');
           });  
 
           grid_item_update.select('text')  
@@ -157,7 +172,7 @@
 
         d3.interval(function() {
           update();
-        }, 3000);
+        }, 4000);
 
       </script>
     </article>
