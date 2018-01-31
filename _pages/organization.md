@@ -34,9 +34,9 @@ Daniela Oelke
 
 <div class="right">
 
-## Program Committee
+<!-- ## Program Committee
 
-t.b.a.
+t.b.a. -->
 
 </div>
 

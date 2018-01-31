@@ -76,13 +76,6 @@
         })
         .attr('y', function(d){
           return (svg_width / numcols) * d.row;
-        })        
-        .on('mouseover', function(){
-          d3.select(this).style('fill','#fc8d59');
-        })
-        .on('mouseout', function(){
-          d3.select(this)
-          .style('fill','#91bfdb');
         });
 
         grid_item_enter.append('text')  
@@ -136,14 +129,6 @@
           })
           .attr('y', function(d){
             return (svg_width / numcols) * d.row;
-          })                 
-          .on('mouseover', function(){
-            d3.select(this)
-            .style('fill','#fc8d59');
-          })          
-          .on('mouseout', function(){
-            d3.select(this)
-            .style('fill','#91bfdb');
           });  
 
           grid_item_update.select('text')  
@@ -196,7 +181,7 @@
     </aside>
     <article>
        <span style="float: left; ">
-	   © 2018 Vis in Practice, part of IEEE VIS 2018, Berlin, Germany, October 21-26, 2018. 
+	   © 2018 VisInPractice, part of IEEE VIS 2018, Berlin, Germany, October 21-26, 2018. 
 	   </span>
 	   <span style="float: right;">
 	   <a href="disclaimer.html">Disclaimer</a>

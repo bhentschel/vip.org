@@ -44,6 +44,8 @@ navigation:
 #    url: important-dates.html
  - title: Organization
    url: organization.html
+ - title: Program
+   url: program.html
 
 archive:
 - title: VisInPractice 2017
