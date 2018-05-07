@@ -45,9 +45,7 @@ In the early afternoon, this session will focus on the question of what is possi
 
 ### Mini-Symposium on Visualizing Uncertainty in Practice
 
-In the late afternoon, we will coordinate a fast-paced session that brings participants up to speed with the practical aspects of uncertainty visualization. To this end, we will begin this session with a **30-minute primer** on the topic that specifically highlights challenges and established approaches. We will complement this introduction by a set of **six 12-minute lightning talks**, each of which outlines a working solution from a practical setting. The selection process will be based on submission of a short
-abstract (two pages max) and an accelerated review process.
-
+In the late afternoon, we will coordinate a [fast-paced session](cfp.html) that brings participants up to speed with the practical aspects of uncertainty visualization. To this end, we will begin this session with a **30-minute primer** by [Kristi Potter](https://www.nrel.gov/research/kristi-potter.html) on the topic that specifically highlights challenges and established approaches. We will complement this introduction by a set of **six 10-minute lightning talks**, each of which outlines a working solution from a practical setting. See our [call for participation](cfp.html) for more details.
 </div>
 
 - - -

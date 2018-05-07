@@ -9,7 +9,7 @@ title: Organization
 
 <div class="left">
 
-## VIP Chairs
+## VisInPractice Chairs
 
 <!-- <img src="../assets/chairs.png" title="Matthew Brehmer, Bernd Hentschel, Daniela Oelke"  alt="Matthew Brehmer, Bernd Hentschel, Daniela Oelke"/>
 

@@ -3,18 +3,18 @@
 VisInPractice
 : October 22, 2018
 
-<!-- ## Papers
+## Mini-Symposium Abstracts
 
-Paper Submission
-: June 16, 2017, 05:00 PM (PDT)
+Abstract Submission
+: June 30, 2018, 05:00 PM (PDT)
 
 Author Notification
-: July 14, 2017
+: July 31, 2018
 
-Camera-Ready Deadline
-: July 29, 2017
+Revised Abstract Deadline
+: August 14, 2017
 
-## Workshop
+<!-- ## Workshop
 
 Half-day workshop
 : October 2, 2017

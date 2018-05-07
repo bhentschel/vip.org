@@ -46,6 +46,8 @@ navigation:
    url: organization.html
  - title: Program
    url: program.html
+ - title: Call for Participation
+   url: cfp.html
 
 archive:
 - title: VisInPractice 2017
