@@ -26,7 +26,7 @@ Your **250-word abstract** should answer the following questions:
 - What did your users have to say?
 - What would you do differently and what would you carry over the next time you face a similar situation? -->
 
-We also ask for a **150-word statement** that indicates the **what a practitioner can expect to learn from the talk**, answering the following questions with regards to visualizing uncertainty: 
+We also ask for a **150-word statement** that indicates **what a practitioner can expect to learn from the talk**, answering the following questions with regards to visualizing uncertainty: 
 - *What new insight will the audience gain?*
 - *What new ability can they apply in their own practice?*
 
