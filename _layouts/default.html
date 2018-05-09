@@ -7,7 +7,7 @@
 
   <header>
     <aside>
-      <!-- <img id="vip-logo" src="assets/logo-vip.png" /> -->
+      <img id="vip-logo" src="assets/logo-vip.png" />
     </aside>
     <article>
       <svg id='header_svg'></svg>
@@ -29,7 +29,7 @@
 
         var color_scale = d3.scaleLinear()
         .domain([0,8,16])
-        .range([d3.lab("#91bfdb"),d3.lab("#ffffbf"),d3.lab("#fc8d59")])
+        .range([d3.lab("#999999"),d3.lab("#ffffbf"),d3.lab("#fc8d59")])
         .interpolate(d3.interpolateLab);
 
         var grid = [],
