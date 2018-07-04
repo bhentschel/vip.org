@@ -34,11 +34,11 @@ Based on this input, the VisInPractice Chairs will select the topics that make u
 
 #### Important Dates
 
-- **June 30, 2018**: Abstract submission deadline via [Precision Conference](https://new.precisionconference.com/submissions)
+- **June 30, 2018**: Talk submission via [Precision Conference](https://new.precisionconference.com/submissions)
 
 - **July 31, 2018**: Notification 
 
-- **August 14, 2018**: Revised abstract deadline
+- **August 14, 2018**: Final talk submission
 
 - **September 7, 2018**: [IEEE VIS](http://ieeevis.org) early registration deadline
 

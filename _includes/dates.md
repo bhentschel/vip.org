@@ -1,18 +1,18 @@
 # Important dates
 
-VisInPractice
+VisInPractice at IEEE VIS
 : October 22, 2018
 
-## Mini-Symposium Abstracts
+## Mini-Symposium Talk Submissions
 
-Abstract Submission
-: June 30, 2018, 05:00 PM (PDT)
+Talk Submission
+: June 30, 2018
 
-Author Notification
+Speaker Notification
 : July 31, 2018
 
-Revised Abstract Deadline
-: August 14, 2017
+Final Talk Submission
+: August 14, 2018
 
 <!-- ## Workshop
 
