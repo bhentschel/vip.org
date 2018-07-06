@@ -73,6 +73,14 @@ a, a:visited {
     color: #d20202;
 }
 
+.imagemap {
+    position: relative;
+}
+.imagemap a {
+    display: block;      
+    position: absolute;
+}
+
 nav { 
     ul { 
         padding: 0;
