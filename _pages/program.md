@@ -61,7 +61,7 @@ In the morning, invited practitioners will share their experiences from their vi
 <span id="inceoglu" class="anchor"></span>
 ## Siemens Power Generation – Big Data Analysis Old World vs. New World
 <img src="../assets/mcgovern_inceoglu.png" width="100%" title="Ayhan Inceoglu and Luke Mc Govern: Siemens Power Generation – Big Data Analysis Old World vs. New World"  alt="Ayhan Inceoglu and Luke Mc Govern: Siemens Power Generation – Big Data Analysis Old World vs. New World"/>
-**SPEAKER**: Ayhan Inceoglu and Luke Mc Govern, Siemens
+**SPEAKER**: Ayhan Inceoglu and Luke Mc Govern, Siemens AG
 
 **ABSTRACT**: The presentation from Ayhan Inceoglu and Luke Mc Govern from Siemens AG will be in two parts. In part one Ayhan will give a brief overview of our business and the workings of a gas turbine. He will then bring up a case study from 2005 about a fleet issue and how it was solved through expert analysis and some intuition. In part two Luke will explain discuss how the Power Generation division within Siemens has advanced in the area of data analytics and big data in the last years. Such as increased usage of tools such as Tableau and QLik along with a more integrated data and information landscape. He will then show how the case study from before might have been solved more quickly thanks to the interconnected data. Visualizations of large diverse data sets together with machine learning can help to find solutions to all manner of problems.
 But expert knowledge is still required to separate correlation and causation.
