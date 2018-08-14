@@ -148,7 +148,10 @@ In this talk, I will go over the basics of uncertainty characterization and the 
 **SPEAKER:** Alex Kale, University of Washington
 
 ### Line Density Plots ###
-**SPEAKER:** Daniela Oelke, Siemens Research
+**SPEAKER:** Stefan Hagen, Siemens Research
+
+### Quantifying Uncertainty in Time Series Data Processing ###
+**SPEAKER:** Christian Bors, TU Wien
 <!-- </div> -->
 
 - - -
