@@ -125,7 +125,7 @@ The early afternoon session will focus on the question of what is possible with 
 <span id="symposium" class="anchor"></span>
 # Mini-Symposium on Visualizing Uncertainty in Practice
 
-In the late afternoon, we will coordinate a fast-paced session that brings participants up to speed with the practical aspects of uncertainty visualization. To this end, we will begin this session with a **30-minute primer** by [Kristi Potter](https://www.nrel.gov/research/kristi-potter.html) of the National Renwewable Energy Laboratory on the topic that specifically highlights challenges and established approaches. Following this primer will be a set of **six 10-minute lightning talks**, each of which outlines a working solution from a practical setting. 
+In the late afternoon, we will coordinate a fast-paced session that brings participants up to speed with the practical aspects of uncertainty visualization. To this end, we will begin this session with a **30-minute primer** by [Kristi Potter](https://www.nrel.gov/research/kristi-potter.html) of the National Renwewable Energy Laboratory on the topic that specifically highlights challenges and established approaches. Following this primer will be a set of **five 10-minute lightning talks**, each of which outlines a working solution from a practical setting. 
 <span id="potter" class="anchor"></span>
 ## Uncertainty Visualization: From Metrics to Imagery
 <img src="../assets/potter.png" width="100%" title="Kristi Potter: Uncertainty Visualization: From Metrics to Imagery"  alt="Kristi Potter: Uncertainty Visualization: From Metrics to Imagery"/>
@@ -138,8 +138,17 @@ In this talk, I will go over the basics of uncertainty characterization and the 
 **SPEAKER BIO**: Dr. Kristin Potter is a Senior Scientist specializing in data visualization at NREL. Her current research is focused on methods for improving visualization techniques by adding qualitative information regarding reliability to the data display. This work includes researching statistical measures of uncertainty, error, and confidence levels, and translating the semantic meaning of these measures into visual metaphors. She is also interested in topics related to decision making, performance visualization, method evaluation, and application specific techniques. Kristi has over 15 years of experience in visualization creation, design and deployment spanning multiple disciplines including atmospheric sciences, materials modeling, geographical mapping, and the humanities. Prior to joining NREL in 2017, she worked as a research computing consultant at the University of Oregon providing visualization services, computational training and education, and other support to researchers across campus, and as a research scientist at the University of Utah, working on projects related to the visualization of uncertainty and error in data. Her dissertation work focused on the visual representation of variability within ensemble suites of simulations covering multiple parameter settings and initial conditions. Her master's work developed the use of sketch-based methods for conveying levels of reliability in architectural renderings. Kristi is currently working in NERL's Insight Center on high-dimensional data visualization techniques and web-based deployment of visualization applications. 
 <span id="lightning" class="anchor"></span>
 ## Lightning Talks on Visualizing Uncertainty in Practice
-(To be announced in August 2018)
+### Visualizing Uncertainties in Conflict Event Data ###
+**SPEAKER:** Andrea Brennen, IQT Labs
 
+### Visualising Climate forecasts, Managing Uncertainty and Accuracy at Seasonal and Sub-Seasonal Scales ###
+**SPEAKER:** Fernando Cucchietti, Barcelona Supercomputing Center
+
+### Hypothetical Outcome Plots: Communicating Uncertainty Through Animated Sampling ###
+**SPEAKER:** Alex Kale, University of Washington
+
+### Line Density Plots ###
+**SPEAKER:** Daniela Oelke, Siemens Research
 <!-- </div> -->
 
 - - -
