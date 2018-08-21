@@ -137,21 +137,21 @@ In this talk, I will go over the basics of uncertainty characterization and the 
 
 **SPEAKER BIO**: Dr. Kristin Potter is a Senior Scientist specializing in data visualization at NREL. Her current research is focused on methods for improving visualization techniques by adding qualitative information regarding reliability to the data display. This work includes researching statistical measures of uncertainty, error, and confidence levels, and translating the semantic meaning of these measures into visual metaphors. She is also interested in topics related to decision making, performance visualization, method evaluation, and application specific techniques. Kristi has over 15 years of experience in visualization creation, design and deployment spanning multiple disciplines including atmospheric sciences, materials modeling, geographical mapping, and the humanities. Prior to joining NREL in 2017, she worked as a research computing consultant at the University of Oregon providing visualization services, computational training and education, and other support to researchers across campus, and as a research scientist at the University of Utah, working on projects related to the visualization of uncertainty and error in data. Her dissertation work focused on the visual representation of variability within ensemble suites of simulations covering multiple parameter settings and initial conditions. Her master's work developed the use of sketch-based methods for conveying levels of reliability in architectural renderings. Kristi is currently working in NERL's Insight Center on high-dimensional data visualization techniques and web-based deployment of visualization applications. 
 <span id="lightning" class="anchor"></span>
-## Lightning Talks on Visualizing Uncertainty in Practice
+## Lightning Talks
 <em>Visualizing Uncertainties in Conflict Event Data</em><br>
-**SPEAKER:** Andrea Brennen (IQT Labs)
+**SPEAKER:** Andrea Brennen, IQT Labs
 
 <em>Visualising Climate forecasts, Managing Uncertainty and Accuracy at Seasonal and Sub-Seasonal Scales</em><br>
-**SPEAKER:** Fernando Cucchietti (Barcelona Supercomputing Center)
+**SPEAKER:** Fernando Cucchietti, Barcelona Supercomputing Center
 
 <em>Hypothetical Outcome Plots: Communicating Uncertainty Through Animated Sampling</em><br>
-**SPEAKER:** Alex Kale (University of Washington)
+**SPEAKER:** Alex Kale, University of Washington
 
 <em>Line Density Plots</em><br>
-**SPEAKER:** Stefan Hagen (Siemens Research)
+**SPEAKER:** Stefan Hagen, Siemens Research
 
 <em>Quantifying Uncertainty in Time Series Data Processing</em><br>
-**SPEAKER:** Christian Bors (TU Wien)
+**SPEAKER:** Christian Bors, TU Wien
 <!-- </div> -->
 
 - - -
