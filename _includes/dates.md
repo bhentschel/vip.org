@@ -1,5 +1,8 @@
 # Important dates
 
+IEEE VIS Early Registration
+: September 7, 2018
+
 VisInPractice at IEEE VIS
 : October 22, 2018
 
@@ -10,9 +13,6 @@ Talk Submission
 
 Speaker Notification
 : July 31, 2018
-
-Final Talk Submission
-: August 14, 2018
 
 <!-- ## Workshop
 

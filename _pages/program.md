@@ -7,9 +7,9 @@ title: Program
 
 # Program: Monday, October 22, 2018 (9am - 6pm)
 
-The entire VisInPractice program is dedicated to everyone interested in the **practical aspects of data visualization and visual analytics**. The focus will be on how to solve real use cases rather than discussing them from the more abstract, academic perspective. The program targets both newcomers to visualization and visual analysis as well as returning members of the community seeking to learn about new tools and practices.
+The entire VisInPractice program is dedicated to everyone interested in the **practical aspects of data visualization and visual analytics**. The focus will be on how to solve real use cases rather than discussing them from an academic perspective. The program targets both newcomers to visualization and visual analysis as well as returning members of the community seeking to learn about new tools and practices.
 
-In the months leading up to the event, we will be updating this program with a detailed schedule indicating the order and times of the talks. **Click on a speaker to see their talk title, abstract, and bio**:
+**Click on a speaker to see their talk title, abstract, and bio**:
 <div class="imagemap">
 <img src="../assets/speakers.png" width="100%" title="VisInPractice 2018 talk series speakers"  alt="VisInPractice 2018 talk series speakers">
 <a target="" alt="Michael Behrisch" title="Michael Behrisch" href="#behrisch" style="top: 0%; left: 0%; width: 25%; height: 33%;">
@@ -26,21 +26,21 @@ In the months leading up to the event, we will be updating this program with a d
 
 # At-a-Glance Schedule
 
-**Session 1**: [VisInPractice Talk Series](#talks)
+**Session 1** (9:00 - 10:40): [VisInPractice Invited Talk Series](#talks)
 
 - morning coffee break
 
-**Session 2**: [VisInPractice Talk Series](#talks)
+**Session 2** (11:00 - 12:40): [VisInPractice Invited Talk Series](#talks)
 
 - lunch break
 
-**Session 3**: [VisInPractice: Tools of the Trade](#tools)
+**Session 3** (14:20 - 16:00): [VisInPractice: Tools of the Trade](#tools)
 
 - afternoon coffee break
 
-**Session 4**: [Mini-Symposium on Visualizing Uncertainty in Practice](#symposium)
+**Session 4** (16:20 - 18:00): [Mini-Symposium on the Practice of Visualizing Uncertainty](#symposium)
 <span id="talks" class="anchor"></span>
-# VisInPractice Talk Series
+# VisInPractice Invited Talk Series (9:00 - 12:40)
 In the morning, invited practitioners will share their experiences from their visualization projects, focusing on the "how" rather than the "what". Each talk will be approximately 30 minutes in length.
 <span id="goodman" class="anchor"></span>
 ## glue-ing together the Universe
@@ -100,7 +100,7 @@ Not only a powerful geo-visualization application, kepler.gl is also a framework
 
 **SPEAKER BIO**: Jan Willem Tulp is a independent Data Experience Designer from The Netherlands. With his company TULP interactive he creates custom data visualizations for a variety of clients. For more than 6 years he has helped clients such as Google, the European Space Agency, Scientific American, Nature, and the World Economic Forum by creating visualizations, both interactive and in print. His work has appeared in several books and magazines and he speaks regularly at international conferences.
 <span id="tools" class="anchor"></span>
-# VisInPractice: The Tools of the Trade
+# VisInPractice: The Tools of the Trade (14:20 - 16:00)
 
 The early afternoon session will focus on the question of what is possible with established visualization and visual analytics tools.
 <span id="rost" class="anchor"></span>
@@ -123,13 +123,13 @@ The early afternoon session will focus on the question of what is possible with 
 ## Discussion of Visualization Tools
 (To be announced in August 2018)
 <span id="symposium" class="anchor"></span>
-# Mini-Symposium on Visualizing Uncertainty in Practice
+# Mini-Symposium on the Practice of Visualizing Uncertainty (16:20 - 18:00)
 
 In the late afternoon, we will coordinate a fast-paced session that brings participants up to speed with the practical aspects of uncertainty visualization. To this end, we will begin this session with a **30-minute primer** by [Kristi Potter](https://www.nrel.gov/research/kristi-potter.html) of the National Renwewable Energy Laboratory on the topic that specifically highlights challenges and established approaches. Following this primer will be a set of **five 10-minute lightning talks**, each of which outlines a working solution from a practical setting. 
 <span id="potter" class="anchor"></span>
 ## Uncertainty Visualization: From Metrics to Imagery
 <img src="../assets/potter.png" width="100%" title="Kristi Potter: Uncertainty Visualization: From Metrics to Imagery"  alt="Kristi Potter: Uncertainty Visualization: From Metrics to Imagery"/>
-**SPEAKER**: [Kristi Potter](https://www.nrel.gov/research/kristi-potter.html), National Renewable Energy Laboratory (NERL)
+**SPEAKER**: [Kristi Potter](https://www.nrel.gov/research/kristi-potter.html), National Renewable Energy Laboratory (NREL)
 
 **ABSTRACT**: Uncertainty is ubiquitous in scientific data. Aberrations such as variability, error, and missing data are key characteristics providing insights into the reliability of a given dataset. Without this information, data is often considered incomplete; however many visualizations do not include uncertainty due to increased complexity in the visual design. In my own work, I often encounter uncertainty stemming from large-scale, multi-run simulations where the variability between simulation runs reflects the range of possible outcomes. My approach to these problems often include multiple linked-windows, color mapping, and contouring, as well as more sophisticated, but domain-specific methods.
 
@@ -138,20 +138,20 @@ In this talk, I will go over the basics of uncertainty characterization and the 
 **SPEAKER BIO**: Dr. Kristin Potter is a Senior Scientist specializing in data visualization at NREL. Her current research is focused on methods for improving visualization techniques by adding qualitative information regarding reliability to the data display. This work includes researching statistical measures of uncertainty, error, and confidence levels, and translating the semantic meaning of these measures into visual metaphors. She is also interested in topics related to decision making, performance visualization, method evaluation, and application specific techniques. Kristi has over 15 years of experience in visualization creation, design and deployment spanning multiple disciplines including atmospheric sciences, materials modeling, geographical mapping, and the humanities. Prior to joining NREL in 2017, she worked as a research computing consultant at the University of Oregon providing visualization services, computational training and education, and other support to researchers across campus, and as a research scientist at the University of Utah, working on projects related to the visualization of uncertainty and error in data. Her dissertation work focused on the visual representation of variability within ensemble suites of simulations covering multiple parameter settings and initial conditions. Her master's work developed the use of sketch-based methods for conveying levels of reliability in architectural renderings. Kristi is currently working in NERL's Insight Center on high-dimensional data visualization techniques and web-based deployment of visualization applications. 
 <span id="lightning" class="anchor"></span>
 ## Lightning Talks on Visualizing Uncertainty in Practice
-### Visualizing Uncertainties in Conflict Event Data ###
-**SPEAKER:** Andrea Brennen, IQT Labs
+<em>Visualizing Uncertainties in Conflict Event Data</em><br>
+**SPEAKER:** Andrea Brennen (IQT Labs)
 
-### Visualising Climate forecasts, Managing Uncertainty and Accuracy at Seasonal and Sub-Seasonal Scales ###
-**SPEAKER:** Fernando Cucchietti, Barcelona Supercomputing Center
+<em>Visualising Climate forecasts, Managing Uncertainty and Accuracy at Seasonal and Sub-Seasonal Scales</em><br>
+**SPEAKER:** Fernando Cucchietti (Barcelona Supercomputing Center)
 
-### Hypothetical Outcome Plots: Communicating Uncertainty Through Animated Sampling ###
-**SPEAKER:** Alex Kale, University of Washington
+<em>Hypothetical Outcome Plots: Communicating Uncertainty Through Animated Sampling</em><br>
+**SPEAKER:** Alex Kale (University of Washington)
 
-### Line Density Plots ###
-**SPEAKER:** Stefan Hagen, Siemens Research
+<em>Line Density Plots</em><br>
+**SPEAKER:** Stefan Hagen (Siemens Research)
 
-### Quantifying Uncertainty in Time Series Data Processing ###
-**SPEAKER:** Christian Bors, TU Wien
+<em>Quantifying Uncertainty in Time Series Data Processing</em><br>
+**SPEAKER:** Christian Bors (TU Wien)
 <!-- </div> -->
 
 - - -

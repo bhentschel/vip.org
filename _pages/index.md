@@ -26,6 +26,6 @@ The **VisInPractice** program at **[IEEE VIS](http://ieeevis.org)** is an opport
 <a target="" alt="VisInPractice 2018 Program" title="VisInPractice 2018 Program" href="program.html" style="top: 67%; left: 50%; width: 50%; height: 33%;">
 </div>
 
-The [VisInPractice 2018 Program](program.html) will feature three sessions of presentations of visualization projects on **Monday, October 22nd, 2018**. It will also include a fast-paced, single-session mini-symposium on the practical aspects of uncertainty visualization. In the months leading up to the event, we will be updating the program with a detailed schedule indicating the order and times of the talks. 
+The [VisInPractice 2018 Program](program.html) features three sessions of invited talks by visualization practitioners on **Monday, October 22nd, 2018**. It also features a fast-paced, single-session [mini-symposium on uncertainty visualization](program.html#symposium). 
 
 Please register through the [IEEE VIS website](http://ieeevis.org).
