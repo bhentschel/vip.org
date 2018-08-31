@@ -174,6 +174,7 @@ In this talk, I will go over the basics of uncertainty characterization and the 
 <span id="lightning" class="anchor"></span>
 ## Lightning Talks
 
+---
 ### Visualizing Uncertainties in Conflict Event Data
 **ABSTRACT:** Today's visualization tools offer few capabilities or standards for conveying uncertainty, particularly in geospatial data. This gap creates an obstacle to meaningful use and integration of publicly available digital data sources, which vary considerably in quality and reliability. The question that motivated this project was: how can we use visualization to make a publicly-available dataset actionable, when we know that it contains uncertainties?
 
@@ -185,7 +186,8 @@ Ultimately, we want to improve our ability to make effective, validated design c
 
 **SPEAKER:** Andrea Brennen, IQT Labs
 
-### Visualising Climate forecasts, Managing Uncertainty and Accuracy at Seasonal and Sub-Seasonal Scales
+---
+### Visualizing Climate Forecasts, Managing Uncertainty and Accuracy at Seasonal and Sub-Seasonal Scales
 **ABSTRACT:** 
 _RESILIENCE_ is a visualisation tool that displays geolocated seasonal and sub-seasonal forecasts of climate variables. Uncertainty depends on the predictability of climate at those time scales, and on the accuracy of the models (skill).
 The tool targets renewable energy traders who need to hedge their decisions based on the prediction spread and the accuracy of past climate predictions: Is the wind expected to be below its historical values? Should we buy alternative energy sources?
@@ -194,12 +196,15 @@ We arrived at our solution after a multi-cycle user centred design process, vali
 
 **SPEAKER:** Fernando Cucchietti, Barcelona Supercomputing Center
 
+---
 ### Hypothetical Outcome Plots: Communicating Uncertainty Through Animated Sampling
 **SPEAKER:** Alex Kale, University of Washington
 
+---
 ### Line Density Plots
 **SPEAKER:** Stefan Hagen, Siemens Research
 
+---
 ### Quantifying Uncertainty in Time Series Data Processing
 **ABSTRACT:**
 Uncertainty visualization has become an integral part of many data analysis applications, aiding practitioners in making informed decisions, particularly when uncertain aspects are involved. However, the assessment and quantification of uncertainty introduced by data processing methods is still neglected in application scenarios. Using human motion and activity recognition as an example, different machine learning and data mining routines can be applied for data processing and analysis, which change the value domain of the underlying multivariate time series.
