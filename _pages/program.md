@@ -175,7 +175,7 @@ In this talk, I will go over the basics of uncertainty characterization and the 
 ## Lightning Talks
 
 ---
-### Visualizing Uncertainties in Conflict Event Data
+## Visualizing Uncertainties in Conflict Event Data
 **ABSTRACT:** Today's visualization tools offer few capabilities or standards for conveying uncertainty, particularly in geospatial data. This gap creates an obstacle to meaningful use and integration of publicly available digital data sources, which vary considerably in quality and reliability. The question that motivated this project was: how can we use visualization to make a publicly-available dataset actionable, when we know that it contains uncertainties?
 
 In this presentation, I will show a prototype application that we built to help users explore the Armed Conflict Location and Event Data Project (ACLED), a publicly-available repository of conflict events. This data contains multiple types of uncertainty including the precise timing and location of events, estimated fatality counts, and varying reliability of information reported by different news outlets.
@@ -187,7 +187,7 @@ Ultimately, we want to improve our ability to make effective, validated design c
 **SPEAKER:** Andrea Brennen, IQT Labs
 
 ---
-### Visualizing Climate Forecasts, Managing Uncertainty and Accuracy at Seasonal and Sub-Seasonal Scales
+## Visualizing Climate Forecasts, Managing Uncertainty and Accuracy at Seasonal and Sub-Seasonal Scales
 **ABSTRACT:** 
 _RESILIENCE_ is a visualisation tool that displays geolocated seasonal and sub-seasonal forecasts of climate variables. Uncertainty depends on the predictability of climate at those time scales, and on the accuracy of the models (skill).
 The tool targets renewable energy traders who need to hedge their decisions based on the prediction spread and the accuracy of past climate predictions: Is the wind expected to be below its historical values? Should we buy alternative energy sources?
@@ -197,15 +197,23 @@ We arrived at our solution after a multi-cycle user centred design process, vali
 **SPEAKER:** Fernando Cucchietti, Barcelona Supercomputing Center
 
 ---
-### Hypothetical Outcome Plots: Communicating Uncertainty Through Animated Sampling
+## Hypothetical Outcome Plots: Communicating Uncertainty Through Animated Sampling
 **SPEAKER:** Alex Kale, University of Washington
 
 ---
-### Line Density Plots
+## Line Density Plots
+**ABSTRACT:** 
+Predictions under uncertainty often are realized as distributions of forecasts. To inspect the different forecasts visually, each prediction can be represented as a line plot. The degree of uncertainty at each point of time becomes apparent if the different forecasts are plotted in one chart. However, displaying multiple lines in one chart quickly results in severe overplotting, thereby camouflaging the interesting trends.
+
+In this talk we will compare different approaches for visualizing line-based uncertainty. We thereby focus on uncertainty as a set of forecasts that all have the same realization plausibility, and which can be represented as a continuous development of a variable (i.e. can be plotted in a line chart) and share the same data domain.
+
+We propose a method for visualizing density in a line chart with many lines that uses a line-based kernel which comes with the advantage that the course of the lines remains visible. The uncertainty aspect can be further intensified by adding a surrounding glow to each line which also emphasizes trends. The usage of a kernel smoothes the view and emulates a larger number of lines than are actually present (upsampling).
+We applied the technique to a real-world application scenario of a 19-day ahead forecast of the oil price (WTI Brent) which was executed with an ensemble of 200 recurrent neural networks. The visualization of the inherent uncertainty enables the user to optimize the procurement of commodities. The solution was implemented in Javascript (D3) and embedded in a TIBCO Spotfire dashboard.
+
 **SPEAKER:** Stefan Hagen, Siemens Research
 
 ---
-### Quantifying Uncertainty in Time Series Data Processing
+## Quantifying Uncertainty in Time Series Data Processing
 **ABSTRACT:**
 Uncertainty visualization has become an integral part of many data analysis applications, aiding practitioners in making informed decisions, particularly when uncertain aspects are involved. However, the assessment and quantification of uncertainty introduced by data processing methods is still neglected in application scenarios. Using human motion and activity recognition as an example, different machine learning and data mining routines can be applied for data processing and analysis, which change the value domain of the underlying multivariate time series.
 
@@ -217,4 +225,4 @@ commonly used data processing routines for time series data (e.g., smoothing ope
 **SPEAKER:** Christian Bors, TU Wien
 <!-- </div> -->
 
-- - -
+---
