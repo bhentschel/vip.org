@@ -213,7 +213,7 @@ In this talk we will compare different approaches for visualizing line-based unc
 We propose a method for visualizing density in a line chart with many lines that uses a line-based kernel which comes with the advantage that the course of the lines remains visible. The uncertainty aspect can be further intensified by adding a surrounding glow to each line which also emphasizes trends. The usage of a kernel smoothes the view and emulates a larger number of lines than are actually present (upsampling).
 We applied the technique to a real-world application scenario of a 19-day ahead forecast of the oil price (WTI Brent) which was executed with an ensemble of 200 recurrent neural networks. The visualization of the inherent uncertainty enables the user to optimize the procurement of commodities. The solution was implemented in Javascript (D3) and embedded in a TIBCO Spotfire dashboard.
 
-**SPEAKER:** Stefan Hagen, Siemens Research
+**SPEAKER:** Stefan Hagen Weber, Siemens Research
 
 ---
 ## Quantifying Uncertainty in Time Series Data Processing
