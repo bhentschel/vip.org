@@ -198,6 +198,9 @@ We arrived at our solution after a multi-cycle user centred design process, vali
 
 ---
 ## Hypothetical Outcome Plots: Communicating Uncertainty Through Animated Sampling
+**ABSTRACT:**
+Hypothetical Outcome Plots (HOPs) communicate uncertainty through an animated series of possible outcomes. The simplest approach to creating HOPs is to: (1) sample hypothetical outcomes from a distribution; (2) for each, make a plot that becomes one frame in an animation. Frequency encodings are similar to how we experience uncertain events naturally (i.e., variation over multiple observations). The visual system automatically forms accurate gist impressions of the relative frequency of events when they are attended to. In contrast, static visualizations can show uncertainty through summary statistical representations (e.g., confidence intervals), by encoding probabilities directly using density, or by presenting static ensembles. However, each of these approaches brings limitations in terms of requiring statistical training or making perception more difficult. In multiple controlled experiments, we find that HOPs are more effective than static visualizations for estimating joint probabilities and supporting accurate interpretations of uncertain data which are required to make decisions. For example, users of HOPs are able to classify trends in samples from a noisy time series more consistently than users of static alternatives. HOPs also support estimation of univariate probabilities with comparable accuracy to conventional uncertainty visualizations in most cases, despite a prevalent belief that animation is inherently ineffective. HOPs can be produced as long as the process which generated data can be simulated, through sampling from either a statistical model or observed data. Designers can apply HOPs to any set of visual encodings provided frequency is not already shown.
+
 **SPEAKER:** Alex Kale, University of Washington
 
 ---
