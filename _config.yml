@@ -41,6 +41,8 @@ navigation:
 #    url: supporters.html
 #  - title: Important Dates
 #    url: important-dates.html
+ - title: VIS Practitioner Guide
+   url: guide.html
  - title: Organization
    url: organization.html
  - title: Program
