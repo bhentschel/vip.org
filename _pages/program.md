@@ -100,7 +100,7 @@ Not only a powerful geo-visualization application, kepler.gl is also a framework
 
 <span id="talks-2" class="anchor"></span>
 # VisInPractice Invited Talks II 
-## 11:00 - 12:40 - Chair: Matthew Bremer
+## 11:00 - 12:40 - Chair: Matthew Brehmer
 
 <span id="lambrechts" class="anchor"></span>
 <img src="../assets/lambrechts.png" width="100%" title="Maarten Lambrechts: Xenographics: Why we should all be William Playfairs"  alt="Maarten Lambrechts: Xenographics: Why we should all be William Playfairs"/>
@@ -132,7 +132,7 @@ In his talk, Maarten will share many of the xenographics to illustrate these ins
 
 <span id="tools" class="anchor"></span>
 # VisInPractice: The Tools of the Trade 
-## 14:20 - 16:00 - Chair: Matthew Bremer
+## 14:20 - 16:00 - Chair: Matthew Brehmer
 
 The early afternoon session will focus on the question of what is possible with established visualization and visual analytics tools.
 <span id="rost" class="anchor"></span>
