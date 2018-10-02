@@ -94,12 +94,32 @@ Finally, along with indicating which sessions may be of interest to these pracit
 <a target="" alt="legend" title="legend" href="#legend"><span class='guide'>SS</span></a> **SciVis: Space and Physics**<br>
 *Wednesday, October 24, 02:20 pm - 04:00 pm, Estrel Hall A+B*
 <br>Among other things, practitioners attending this session will:
-* ...
+* get an overview of a diverse set of scientific visualization applications, as diverse as the analysis of porous media, vast astronomical data bases, and weather forecasts and
+* get to know visualization approaches that help improve weather forecasts.
 
 <a target="" alt="legend" title="legend" href="#legend"><span class='guide'>SS</span></a> **SciVis: SciVis Contest**<br>
 *Wednesday, October 24, 02:20 pm - 04:00 pm, Estrel Hall C*
+<br>Among other things, practitioners attending this session will get an in-depth review of how a number of different teams approached a specific visualization challenge: the analysis of a simulated deep-water asteroid impact.
+
+
+<a target="" alt="legend" title="legend" href="#legend"><span class='guide'>SS</span></a> **Scalable Techniques**<br>
+*Thursday, October 25, 11:00 pm - 12:40 pm, Estrel Hall A+B*
 <br>Among other things, practitioners attending this session will:
-* ...
+* get to know approaches for the visualization of non-cartesian mesh data;
+* learn about ray casting approaches for unstructured and AMR grids.
+
+<a target="" alt="legend" title="legend" href="#legend"><span class='guide'>SS</span></a> **CG&A Papers Session 2**<br>
+*Thursday, October 25, 11:00 pm - 12:40 pm, Room IV*
+<br>Among other things, practitioners attending this session will:
+* see a diverse set of visualization solutions for specific analysis prolems;
+* learn how visualization helps teaching college courses, explore and explain outer space, and improve clinical diagonstics. 
+
+<a target="" alt="legend" title="legend" href="#legend"><span class='guide'>SS</span></a> **SciVis: Time-Varying Data**<br>
+*Friday, October 26, 09:00 pm - 10:40 pm, Estrel C*
+<br>Among other things, practitioners attending this session will:
+* multivariate data...
+* learn how to analyse time-dependent flow fields, e.g. by finding relationships between physical attributes or by focusing on time-invariant properties;
+* get to know a new plotting mechanism which is designed to plot data with three dimensions, e.g., space, attribute and time with applications in various domains.
 
 <a target="" alt="legend" title="legend" href="#legend"><span class='guide'>DS</span></a> **VAST: Interactive Analytics & Design**<br>
 *Thursday, October 25 , 9:00 am - 10:40 am, Estrel Hall C*
