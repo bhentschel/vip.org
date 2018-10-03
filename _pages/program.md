@@ -5,7 +5,7 @@ title: Program
 
 {::options parse_block_html="true" /}
 
-# Program: Monday, October 22, 2018 (9am - 6pm)
+# Program: Monday, October 22, 2018 (9am - 6pm) in Estrel A
 
 The entire VisInPractice program is dedicated to everyone interested in the **practical aspects of data visualization and visual analytics**. The focus will be on how to solve real use cases rather than discussing them from an academic perspective. The program targets both newcomers to visualization and visual analysis as well as returning members of the community seeking to learn about new tools and practices.
 

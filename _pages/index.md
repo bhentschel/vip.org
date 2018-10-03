@@ -9,7 +9,7 @@ title: Home
 
 <!-- # Visualization in Practice 2018  -->
 
-The **VisInPractice** program at **[IEEE VIS](http://ieeevis.org)** is an opportunity for visualization practitioners and researchers to meet and share experiences, insights, and ideas in applying visualization and visual analytics to real-world use cases. VisInPractice seeks to acknowledge successful transfers of visualization research into applications as well as current visualization practices in industry. 
+The [VisInPractice 2018 Program](program.html) at **[IEEE VIS](http://ieeevis.org)** features three sessions of invited talks by visualization practitioners on **Monday, October 22nd, 2018** in **Estrel A**.  
 
 <div class="imagemap">
 <img src="../assets/speakers.png" width="100%" title="VisInPractice 2018 talk series speakers"  alt="VisInPractice 2018 talk series speakers">
@@ -26,6 +26,6 @@ The **VisInPractice** program at **[IEEE VIS](http://ieeevis.org)** is an opport
 <a target="" alt="VisInPractice 2018 Program" title="VisInPractice 2018 Program" href="program.html" style="top: 67%; left: 50%; width: 50%; height: 33%;">
 </div>
 
-The [VisInPractice 2018 Program](program.html) features three sessions of invited talks by visualization practitioners on **Monday, October 22nd, 2018**. It also features a fast-paced, single-session [mini-symposium on uncertainty visualization](program.html#symposium). 
+The **VisInPractice** program is an opportunity for visualization practitioners and researchers to meet and share experiences, insights, and ideas in applying visualization and visual analytics to real-world use cases. It also features a fast-paced, single-session [mini-symposium on uncertainty visualization](program.html#symposium). VisInPractice seeks to acknowledge successful transfers of visualization research into applications as well as current visualization practices in industry. 
 
 Please register through the [IEEE VIS website](http://ieeevis.org).
