@@ -279,7 +279,6 @@ Finally, along with indicating which sessions may be of interest to these pracit
 <a target="" alt="Simulation Science" title="Simulation Science" href="#legend"><span class='guide'>SS</span></a> **SciVis: Time-Varying Data**<br>
 *Friday, October 26, 09:00 pm - 10:40 pm, Estrel C*
 <br>Among other things, practitioners attending this session will:
-* Multivariate data...
 * Learn how to analyse time-dependent flow fields, e.g., by finding relationships between physical attributes or by focusing on time-invariant properties;
 * Get to know a new plotting mechanism which is designed to plot data with three dimensions, e.g., space, attribute and time with applications in various domains.
 
