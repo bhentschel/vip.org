@@ -152,7 +152,7 @@ Finally, along with indicating which sessions may be of interest to these pracit
 <a target="" alt="Data Science and Machine Learning" title="Data Science and Machine Learning" href="#legend"><span class='guide'>DS</span></a> **VAST: Ensemble & Provenance**<br>
 *Wednesday, October 24, 9:00 am - 10:40 am, Convention Hall 1, Section C*
 <br>Among other things, practitioners attending this session will:
-* Learn about the requirements to augment existing client-side Web applications with support for capturing, reviewing, sharing, and reusing steps in the reasoning process.
+* Learn about the requirements to augment existing client-side web applications with support for capturing, reviewing, sharing, and reusing steps in the reasoning process.
 
 <a target="" alt="Data Science and Machine Learning" title="Data Science and Machine Learning" href="#legend"><span class='guide'>DS</span></a>  **VAST: Text**<br>
 *Wednesday, October 24, 9:00 am - 10:40 am, Estrel Hall C*
