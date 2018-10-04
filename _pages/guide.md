@@ -282,7 +282,7 @@ Finally, along with indicating which sessions may be of interest to these pracit
 <a target="" alt="Simulation Science" title="Simulation Science" href="#legend"><span class='guide'>SS</span></a> **Scalable Techniques**<br>
 *Thursday, October 25, 11:00 pm - 12:40 pm, Estrel Hall A+B*
 <br>Among other things, practitioners attending this session will:
-* Get to know approaches for the visualization of non-cartesian mesh data;
+* Get to know approaches for the visualization of non-cartesian mesh data,
 * Learn about ray casting approaches for unstructured and AMR grids.
 
 <a target="" alt="Simulation Science" title="Simulation Science" href="#legend"><span class='guide'>SS</span></a>  **CG&A: Session 2**<br>
@@ -290,13 +290,13 @@ Finally, along with indicating which sessions may be of interest to these pracit
 <br>Of particular interest to practitioners working in biomedical application areas, those attending this session will, among other things:
 * Learn about a technique for assessing patient-specific cerebral aneurysm risk applied in during a clinical routine,
 * Improve diagnostic processes with a new multimodal tool for exploring 3D data volumes. 
-* See a diverse set of visualization solutions for specific analysis prolems;
+* See a diverse set of visualization solutions for specific analysis prolems,
 * Learn how visualization helps teaching college courses, explore and explain outer space, and improve clinical diagonstics. 
 
 <a target="" alt="Simulation Science" title="Simulation Science" href="#legend"><span class='guide'>SS</span></a> **SciVis: Time-Varying Data**<br>
 *Friday, October 26, 09:00 pm - 10:40 pm, Estrel C*
 <br>Among other things, practitioners attending this session will:
-* Learn how to analyse time-dependent flow fields, e.g., by finding relationships between physical attributes or by focusing on time-invariant properties;
+* Learn how to analyse time-dependent flow fields, e.g., by finding relationships between physical attributes or by focusing on time-invariant properties,
 * Get to know a new plotting mechanism which is designed to plot data with three dimensions, e.g., space, attribute and time with applications in various domains.
 
 
