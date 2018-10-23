@@ -9,7 +9,7 @@ title: Guide
 
 This guide presents a high-level guide to some of the most interesting [technical sessions of the IEEE VIS 2018 conference](http://ieeevis.org/year/2018/info/papers-sessions), with a particular emphasis on sessions that are of relevance to practitioners. For a complete list of conference sessions and the full conference program, please refere to [ieeevis.org](http://ieeevis.org/) and their [at-a-glance-schedule](http://ieeevis.org/attachments/VIS2018_AAG.pdf).
 
-Last year at [IEEE VIS 2017](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/pg), we prepared a practitioner guide for 4 groups of practitioners as well as a guide for all practitioners. This year, we incorporated the titles and abstracts of content appearing at this year's conference as well as from statements elicited by paper authors, and upon doing so we identified six practitioner interest groups, which you may have noticed appearing throughout the [VIS PDF and print program]((http://ieeevis.org/)):
+When preparing the practitioner guide, we incorporated the titles and abstracts of content appearing at this year's conference as well as statements elicited from paper authors. In this way, we identified six practitioner interest groups, which also appear now throughout the VIS PDF and print program available at [ieeevis.org](http://ieeevis.org/):
 <span id="legend" class="anchor"></span>
 * <a target="" alt="All Practitioners" title="All Practitioners" href="#ap"><span class='guide'>AP</span></a> - <a target="" alt="All Practitioners" title="All Practitioners" href="#ap">All Practitioners </a>
 
@@ -34,10 +34,11 @@ Finally, along with indicating which sessions may be of interest to these pracit
 
 <a target="" alt="All Practitioners" title="All Practitioners" href="#legend"><span class='guide'>AP</span></a> **Tutorial: Comparative Visualization: Interactive Designs and Algorithms Depending on Data and Tasks**<br>
 *Sunday, October 21, 2:20 pm - 6:00 pm, Estrel B*
-* [Tutorial information](http://ieeevis.org/year/2018/info/tutorials#Comparative_visualization)
+* [Tutorial information](http://ieeevis.org/year/2018/info/tutorials#Comparative_visualization) (hint: you already found us.)
 
 <a target="" alt="All Practitioners" title="All Practitioners" href="#legend"><span class='guide'>AP</span></a> **VisInPractice**<br>
 *Monday, October 22, 9:00 pm - 6:00 pm, Estrel A*
+* [Workshop program](./program.html)
 
 <a target="" alt="All Practitioners" title="All Practitioners" href="#legend"><span class='guide'>AP</span></a> **VIS Welcome, VGTC Awards, Test of Time Awards, VIS Best Papers**<br>
 *Tuesday, October 23, 9:00 am - 11:00 am, Convention Hall 1, Section C + D*
@@ -105,7 +106,7 @@ Finally, along with indicating which sessions may be of interest to these pracit
 *Tuesday, October 23, 4:20 pm - 6:00 pm, Estrel Hall A+B*
 <br>This session will focus on adavances in applied biomedical visualization. Among other things, practitioners will:
 * Learn about techniques for RNA and DNA design and analysis,
-* Get to know a system, which facilitates the intuitive exploration of large molecular trajectories. 
+* Get to know a system which facilitates the intuitive exploration of large molecular trajectories. 
 
 <a target="" alt="Biomedical Applications" title="Biomedical Applications" href="#legend"><span class='guide'>BA</span></a> **SciVis: Biomedical Visualization**<br>
 *Wednesday, October 24, 9:00 am - 10:40 am, Estrel Hall A+B*
