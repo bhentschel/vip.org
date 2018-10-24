@@ -7,7 +7,7 @@ title: Graphical Recording
 
 # Graphical Recording
 
-This year's VisInPractice Program has been graphically recorded by GR artist [Benjamin Felis](https://benjaminfelis.com/). Here, we present the graphical summaries of this year's sessions. Click on an image for a larger view.
+This year's VisInPractice Program was graphically recorded by artist [Benjamin Felis](https://benjaminfelis.com/). Click on an image for a larger view.
 
 <div class="imagemap">
 <img src="../assets/gr_summary_thumb.png" width="100%" title="VisInPractice Graphical Recording"  alt="VisInPractice Graphical Recording">
