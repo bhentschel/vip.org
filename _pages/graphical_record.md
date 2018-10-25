@@ -7,7 +7,7 @@ title: Graphical Recording
 
 # Graphical Recording
 
-This year's VisInPractice Program was graphically recorded by artist [Benjamin Felis](https://benjaminfelis.com/). Click on an image for a larger view.
+This year's VisInPractice Program was graphically recorded by artist [Benjamin Felis](https://benjaminfelis.com/). Click on an image for a larger view. 
 
 <div class="imagemap">
 <img src="../assets/gr_summary_thumb.png" width="100%" title="VisInPractice Graphical Recording"  alt="VisInPractice Graphical Recording">
@@ -21,6 +21,12 @@ This year's VisInPractice Program was graphically recorded by artist [Benjamin F
 </a>
 </div>
 
+<div style="text-align: right"> 
+This work has been kindly supported by 
+</div>
+<div style="text-align: right">
+<a href="https://www.jara.org/en/research/hpc" ><img src="../assets/jarahpc.png" title="JARA HPC" alt="JARA HPC" width="31%"></a>
+</div>
 
 # VisInPractice Invited Talks I
 <a href="../assets/gr_session1.jpg" ><img src="../assets/gr_session1_thumb.jpg" width="50%"></a>
