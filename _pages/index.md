@@ -26,6 +26,10 @@ The [VisInPractice 2018 Program](program.html) at **[IEEE VIS](http://ieeevis.or
 <a target="" alt="VisInPractice 2018 Program" title="VisInPractice 2018 Program" href="program.html" style="top: 67%; left: 50%; width: 50%; height: 33%;">
 </div>
 
-The **VisInPractice** program is an opportunity for visualization practitioners and researchers to meet and share experiences, insights, and ideas in applying visualization and visual analytics to real-world use cases. It also features a fast-paced, single-session [mini-symposium on uncertainty visualization](program.html#symposium). VisInPractice seeks to acknowledge successful transfers of visualization research into applications as well as current visualization practices in industry. 
+The **VisInPractice** program is an opportunity for visualization practitioners and researchers to meet and share experiences, insights, and ideas in applying visualization and visual analytics to real-world use cases. It also features a fast-paced, single-session [mini symposium on uncertainty visualization](program.html#symposium). VisInPractice seeks to acknowledge successful transfers of visualization research into applications as well as current visualization practices in industry. 
 
-Please register through the [IEEE VIS website](http://ieeevis.org).
+# Thank You
+Vis in Practice was held on October 22 in Berlin, Germany.
+We are looking back at a very lively event. 
+Thank you all for participating.
+Please let us know how you [<b>liked it.</b>](https://aka.ms/vipfeedback)
