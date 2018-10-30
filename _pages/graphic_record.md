@@ -17,7 +17,7 @@ This year's VisInPractice Program was visually recorded by artist [Benjamin Feli
 </a>
 <a target="" alt="Session3" title="Session3" href="../assets/gr_session3.jpg" style="top: 0%; left: 50%; width: 25%; height: 100%;">
 </a>
-<a target="" alt="Session4" title="Session4" href="../assets/gr_session4.jpg" style="top: 50%; left: 75%; width: 25%; height: 100%;">
+<a target="" alt="Session4" title="Session4" href="../assets/gr_session4.jpg" style="top: 0%; left: 75%; width: 25%; height: 100%;">
 </a>
 </div>
 
