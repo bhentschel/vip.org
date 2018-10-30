@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Graphical Recording
+title: Graphic Recording
 ---
 
 {::options parse_block_html="true" /}
 
-# Graphical Recording
+# Graphic Recording
 
-This year's VisInPractice Program was graphically recorded by artist [Benjamin Felis](https://benjaminfelis.com/). Click on an image for a larger view. 
+This year's VisInPractice Program was visually recorded by artist [Benjamin Felis](https://benjaminfelis.com/). Click on an image for a larger view. 
 
 <div class="imagemap">
-<img src="../assets/gr_summary_thumb.png" width="100%" title="VisInPractice Graphical Recording"  alt="VisInPractice Graphical Recording">
+<img src="../assets/gr_summary_thumb.png" width="100%" title="VisInPrac tice Graphical Recording"  alt="VisInPractice Graphical Recording">
 <a target="" alt="Session1" title="Session1" href="../assets/gr_session1.jpg" style="top: 0%; left: 0%; width: 25%; height: 100%;">
 </a>
 <a target="" alt="Session2" title="Session2" href="../assets/gr_session2.jpg" style="top: 0%; left: 25%; width: 25%; height: 100%;">
